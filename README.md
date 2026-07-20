@@ -1,4 +1,24 @@
+# Hi there 👋, I'm Harjeevan Kumar
 
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about Cybersecurity, and Cloud Security
+
+🚀 Currently learning and building projects in Java, Python, C++, and Web Technologies
+
+🌱 Always exploring new technologies and improving problem-solving skills
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Programming Languages: Java, Python, C, C++
+- 🔐 Interested in Cybersecurity & Cloud Security
+- 📚 Learning Data Structures & Algorithms
+- 🌟 Open to learning new technologies and contributing to projects
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harjeevan_yadav_373) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/harjeevan-yadav-325a51327/?skipRedirect=true ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harjeevankhg2019@gmail.com) 
 
@@ -25,4 +45,5 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# Thank You Visiting My Profiles ! 🫡
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
