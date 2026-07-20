@@ -1,78 +1,122 @@
-# Hi there 👋, I'm Harjeevan Kumar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Harjeevan%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20|%20Cloud%20Security%20|%20Open%20Source&descAlignY=55"/>
+</p>
 
-🎓 B.Tech Computer Science Engineering Student
+<h1 align="center">Hi 👋, I'm Harjeevan Yadav</h1>
 
-💻 Passionate about Cybersecurity, and Cloud Security
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;B.Tech+CSE+Student;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+</p>
 
-🚀 Currently learning and building projects in Java, Python, C++, and Web Technologies
-
-🌱 Always exploring new technologies and improving problem-solving skills
+<h3 align="center">🚀 Passionate about Cybersecurity, Cloud Security & Open Source</h3>
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/harjeevanyadav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="mailto:harjeevankhg2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/harjeevan-yadav-325a51327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
-- 💻 Programming Languages: Java, Python, C, C++
-- 🔐 Interested in Cybersecurity & Cloud Security
-- 📚 Learning Data Structures & Algorithms
-- 🌟 Open to learning new technologies and contributing to projects
+- 🔐 Learning Cybersecurity & Cloud Security
+- ☁️ Exploring AWS, Azure & Linux
+- 💻 Interested in Open Source
+- 🌱 Currently improving DSA & Security Skills
+- 🎯 Goal: Become a Cloud Security Engineer
 
 ---
-## 🌐 Contect Socials Media :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harjeevan_yadav_373) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/harjeevan-yadav-325a51327/?skipRedirect=true ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harjeevankhg2019@gmail.com) 
 
-# 💻 Tech Stack :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harjeevanyadav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📊 GITHUB STATS
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjeevanyadav&theme=github_dark" alt="Profile Summary" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjeevanyadav&theme=github_dark" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harjeevanyadav&theme=github_dark" alt="Language Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjeevanyadav&theme=github_dark" alt="Commit Language" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com user=harjeevanyadav&theme=tokyonight&hide_border=true&background=0D1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30"alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,vscode,linux,bash,docker,aws" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harjeevanyadav/harjeevanyadav/gh-pages/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjeevanyadav&theme=github_dark" width="95%" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjeevanyadav&theme=github_dark" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harjeevanyadav&theme=github_dark" width="32%" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjeevanyadav&theme=github_dark" width="32%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harjeevanyadav&theme=tokyonight&hide_border=true&background=0D1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 📈 Contribution Graph
 
-- Strengthen Java Development Skills
-- Learn Data Structures & Algorithms
-- Explore Ethical Hacking & Cybersecurity
-- Build Real-World Projects
-- Contribute to Open Source
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harjeevanyadav&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harjeevanyadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harjeevanyadav/harjeevanyadav/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=harjeevanyadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🚀 Current Focus
+
+```text
+🔐 Cybersecurity
+☁️ AWS Cloud
+🐧 Linux
+🐳 Docker
+🛡️ Cloud Security
+💻 Open Source
+📚 Data Structures & Algorithms
+```
+
+---
+
+# 🏅 Certifications
+
+- ☁️ AWS Cloud Practitioner (Learning)
+- 🔐 Google Cybersecurity (Planned)
+- 🌐 Cisco Networking (Learning)
+
+---
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👀 Profile Views
 
-# Thanks For Visiting My Profiles ! 🫡
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harjeevanyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> 💡 **Learning never stops. Every day is another opportunity to improve.**
+
+⭐ **If you like my work, don't forget to star my repositories!**
+## Thanks For Visiting My Profiles !
