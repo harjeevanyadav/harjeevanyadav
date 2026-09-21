@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Harjeevan Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Cloud+Security+Learner;B.Tech+CSE+Student;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity;Cloud+Security;B.Tech+CSE+Student;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
 
 <h3 align="center">🚀 Passionate about Cybersecurity, Cloud Security & Open Source</h3>
