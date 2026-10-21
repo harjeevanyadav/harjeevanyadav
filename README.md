@@ -105,8 +105,9 @@
 # 🏅 Certifications
 
 - ☁️ AWS Cloud Practitioner 
-- 🔐 Google Cybersecurity
-- 🌐 Cisco Networking 
+- <a href="http://credly.com/badges/2dea0b14-3479-4323-a68e-d3a0978b5717/linked_in?t=thk1qc" alt="certificates">🔐 Cisco introduction of Cybersecurity</a>
+- 🌐 Cisco Networking
+- <a href="https://www.credly.com/badges/147639aa-8eff-4359-9ab5-8d3213e8f396/linked_in_profile" alt="certificates">🐍 Cisco Python</a>
 
 ---
 
