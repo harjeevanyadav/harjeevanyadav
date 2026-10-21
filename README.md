@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity;Cloud+Security;B.Tech+CSE+Student;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
 
-<h3 align="center">🚀 Passionate about Cybersecurity, Cloud Security & Open Source</h3>
+<h3 align="center">🚀 About Cybersecurity, Cloud Security & Open Source</h3>
 
 ---
 
@@ -42,7 +42,7 @@
 - ☁️ Exploring AWS, Azure & Linux
 - 💻 Interested in Open Source
 - 🌱 Currently improving DSA & Security Skills
-- 🎯 Goal: Become a Cloud Security Engineer
+- 🎯 Goal: Become a cybersecurity
 
 ---
 
@@ -104,9 +104,9 @@
 
 # 🏅 Certifications
 
-- ☁️ AWS Cloud Practitioner (Learning)
-- 🔐 Google Cybersecurity (Planned)
-- 🌐 Cisco Networking (Learning)
+- ☁️ AWS Cloud Practitioner 
+- 🔐 Google Cybersecurity
+- 🌐 Cisco Networking 
 
 ---
 
