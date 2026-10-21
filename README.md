@@ -121,7 +121,6 @@
 
 ## ⚡ Fun Fact
 
-> 💡 **Learning never stops. Every day is another opportunity to improve.**
+> 💡 **Learning never stops , Improve every day. Grow endlessly. 🚀**
 
-⭐ **If you like my work, don't forget to star my repositories!**
 ## Thanks For Visiting My Profiles !
